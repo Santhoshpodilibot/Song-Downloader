@@ -11,7 +11,7 @@
     ],
     "website": "https://github.com/MR-JINN-OF-TG",
     "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader",
-    "success_url": "https://t.me/NAZRIYASUPPORT",
+    "success_url": "https://t.me/Newsstremerbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
