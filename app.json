@@ -1,5 +1,5 @@
 {
-    "name": "Song-Downloader-Bot",
+    "name": "SANTHOSH YOUTUBE SONG DOWNLOADER",
     "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
     "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
     "stack": "container",
@@ -24,29 +24,29 @@
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
             "value": ""
-        }, 
-        "OWNER_ID": {
-            "description": "Your id for broadcasting messages to users. Only you can broadcast message.",
-            "value": ""
         },
-        "DB_URI": {
-            "description": "Your database url from mongodb.",
-            "value": ""
+        "BOT_PIC": {
+            "description": " BOT PIC AT @vTelegraphBot ",
+            "value": "https://te.legra.ph/file/509686aa88a027bffe2b3.jpg"
         }, 
         "SUPPORT": {
-            "description": "Your support chat Username Without @",
-            "value": "NAZRIYASUPPORT"
+            "description": "Your support chat Username With @",
+            "value": "@newsstreamer"
         }, 
         "BOT_NAME": {
             "description": "your Bot name ",
             "value": "Song Downloader bot"
         }, 
         "BOT_USERNAME": {
-            "description": "Your bot Username Without @",
-            "value": "NazriyaSongBot"
-        }
-    },
-    "addons": [],
+            "description": "Your bot Username With @",
+            "value": "@Newsstremerbot"
+        }, 
+        }, 
+        "OWNER_ID": {
+            "description": "Your id for broadcasting messages to users. Only you can broadcast message.",
+            "value": ""
+ },
+ "addons": [],
     "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
